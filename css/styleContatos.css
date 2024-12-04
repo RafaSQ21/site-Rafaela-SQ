@@ -1,0 +1,46 @@
+/*
+****** LIMPAR FORMATAÇÕES******
+*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*
+******FORMATAÇÃO GENERICA******
+*/
+body{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(217, 195, 240);
+}
+
+/*
+******ESTILIZAÇÃO TÍTULO PRINCIPAL******
+*/
+h1{
+    color: #262525;
+    background-color: aliceblue;
+    font-size: 50px;
+    text-align: center;
+}
+
+/*
+******ESTILIZAÇÃO LISTA MENU PADRÃO******
+*/
+#menu{
+    margin-right: 40px; 
+    margin-top: 70px;
+    margin-left: 40px;   
+    background-color: rgb(235, 199, 249);
+    padding: 10px;
+    float:right
+    }
+
+/*
+******ESTILIZAÇÃO LISTA MEIO DE CONATO******
+*/
+#contato{
+    margin-left: 200px;
+    margin-top: 55px;
+}
